@@ -1,5 +1,9 @@
 # synologydownloadassistant.com
 
+<p align="center">
+  <img src=".github/logo.png" alt="synologydownloadassistant.com logo" width="128" />
+</p>
+
 The site for the Synology Download Assistant browser extension.
 
 ## Contents
